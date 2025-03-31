@@ -1,0 +1,35 @@
+{
+    "usuarios": [
+      {
+        "name": "Tony Stark",
+        "email": "tony.stark@alura.com.br",
+        "password": "Senha123"
+      },
+      {
+        "name": "Steve Rogers",
+        "email": "steve.rogers@alura.com.br",
+        "password": "Senha123"
+      },
+      {
+        "name": "Natasha Romanoff",
+        "email": "natasha.romanoff@alura.com.br",
+        "password": "Senha123"
+      },
+      {
+        "name": "Bruce Banner",
+        "email": "bruce.banner@alura.com.br",
+        "password": "Senha123"
+      },
+      {
+        "name": "Clint Barton",
+        "email": "clint.barton@alura.com.br",
+        "password": "Senha123"
+      },
+      {
+        "name": "Wanda Maximoff",
+        "email": "wanda.maximoff@alura.com.br",
+        "password": "Senha123"
+      }
+    ]
+  }
+  
